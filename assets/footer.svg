@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="180" viewBox="0 0 1600 180" role="img" aria-labelledby="title">
+  <title id="title">Animated engineering terminal</title>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#06111e"/><stop offset=".5" stop-color="#09213a"/><stop offset="1" stop-color="#06111e"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="3"/></filter></defs>
+  <rect width="1600" height="180" rx="10" fill="url(#bg)"/>
+  <path d="M0 34h1600" stroke="#52d9ff" stroke-opacity=".18"/><circle cx="28" cy="17" r="5" fill="#22d3ee"/><circle cx="46" cy="17" r="5" fill="#67e8f9" fill-opacity=".55"/><circle cx="64" cy="17" r="5" fill="#e0f7ff" fill-opacity=".35"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#67e8f9" fill-opacity=".62">
+    <text x="42" y="67">$ deploy --service platform-api --region eu-west-1</text><text x="42" y="94">✓ healthcheck: passing   ✓ replicas: 12   ✓ latency p95: 42ms</text><text x="42" y="121">$ stream events | process --parallel 32</text><text x="42" y="148">[ready] distributed systems / cloud native / ai platforms</text>
+    <text x="1240" y="67">{ event: "accepted" }</text><text x="1290" y="94">queue.depth = 0</text><text x="1260" y="121">trace_id: 7fa2c9</text>
+  </g>
+  <g fill="#22d3ee" fill-opacity=".42" filter="url(#g)"><rect x="1120" y="55" width="2" height="18"><animate attributeName="y" values="45;145;45" dur="3.2s" repeatCount="indefinite"/></rect><rect x="1160" y="82" width="2" height="24"><animate attributeName="y" values="125;48;125" dur="4.1s" repeatCount="indefinite"/></rect><rect x="1200" y="50" width="2" height="15"><animate attributeName="y" values="55;140;55" dur="2.7s" repeatCount="indefinite"/></rect><rect x="1510" y="64" width="2" height="25"><animate attributeName="y" values="140;50;140" dur="3.6s" repeatCount="indefinite"/></rect></g>
+  <rect x="42" y="157" width="9" height="2" fill="#67e8f9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
